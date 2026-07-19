@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Shabib Al Hasni
 
-<!--
-**ShAhasni/ShAhasni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Technical Data Management Analyst based in Oman.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI & LLM Applications
+- Knowledge Discovery Platforms
+- Microsoft Fabric
+- Power BI
+- Data Engineering
+- Copilot Studio
+- Python Automation
+- Technical Data Management
+
+## Current Focus
+
+- Well-Centric Technical Data Discovery Platform
+- Knowledge Discovery Agents
+- AI Business Applications
+- AI Forward Deployed Engineering skills
+
+## Technology Stack
+
+- Python
+- Microsoft Fabric
+- Power BI
+- Copilot Studio
+- Power Platform
+- Node.js
+- GitHub Copilot
+
+## Goals
+
+Building production-ready AI and data products that connect technical data, business knowledge, and intelligent automation.
