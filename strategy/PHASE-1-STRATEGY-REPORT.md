@@ -21,6 +21,15 @@ No customer names, testimonials, results, metrics, or certifications are fabrica
 
 ---
 
+## REVISION LOG
+
+| Version | Date | Change | Reason |
+|---|---|---|---|
+| v1.0 | 2026-07-24 | Original Phase 1 report | Initial strategy, anchored on Oil & Gas/Energy/Engineering as the primary vertical |
+| v1.1 | 2026-07-24 | **Target market changed to mid-size companies across all sectors** (client decision) | Client explicitly redirected scope from an industry-vertical anchor to a company-size anchor. Oil & Gas/Engineering experience is retained throughout as a credibility/rigor signal, but is no longer the primary targeting filter. "Mid-size" is provisionally assumed as roughly 50–500 employees pending client confirmation (see Section 34/35). |
+
+---
+
 ## SECTION 1 — EXECUTIVE BUSINESS ASSESSMENT
 
 ### Overall Assessment
@@ -31,7 +40,7 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 
 ### Strongest Business Opportunities
 
-1. **Oil & Gas / Engineering technical data governance** — this is where your direct professional credibility is strongest and least contested by generalist competitors.
+1. **Data & information governance for mid-size companies, across all sectors** — mid-market organisations are large enough to have real data, reporting, and governance pain, but too small to be a priority for large consultancies; your governance-plus-AI combination, sharpened inside demanding Oil & Gas/Engineering environments, transfers directly and credibly to this broader, cross-sector market.
 2. **AI readiness built on governance** — nearly every AI/Copilot consultant skips governance; nearly every governance consultant cannot ship an AI assistant. You can do both, which is a genuine 2025–2027 market gap (Copilot and enterprise AI adoption is accelerating faster than governance maturity).
 3. **Microsoft 365 / Power Platform "underused investment" recovery** — organisations that already pay for M365/Power BI/Copilot licenses but get little value are an easier sell than organisations with no budget line at all.
 
@@ -40,7 +49,7 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 1. No public case studies, testimonials, or third-party proof yet.
 2. Positioning currently spans BI, governance, SharePoint, automation, and AI as if they were five equal front doors — none is the *lead* door.
 3. Government is listed as a primary target despite having the least evidence of quick payback and the longest, most complex sales cycle.
-4. SME and enterprise messaging currently sit side by side, which dilutes premium positioning — a buyer researching "enterprise data governance" and a buyer researching "help me automate my invoices" do not want the same homepage.
+4. Targeting "all sectors" with no other filter risks generic, forgettable positioning. The fix is to anchor on **company size** — mid-size organisations, large enough to have real data/reporting/governance pain and real budget, small enough to value a senior independent over a big consultancy — rather than trying to serve micro-businesses and large multinational enterprises with the same message.
 
 ### Immediate Risks
 
@@ -88,7 +97,7 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 
 | # | Strength | Strategic Response |
 |---|---|---|
-| S1 | Real Oil & Gas/Engineering technical data experience | Lead with industry-specific case framing, not generic BI/AI language |
+| S1 | Real Oil & Gas/Engineering technical data experience | Use as depth-of-rigor credibility applicable to any mid-size client, not as a narrow industry restriction |
 | S2 | Deep Microsoft ecosystem fluency (M365, Power Platform, Copilot Studio) | Position as a Microsoft-fluent *independent* advisor, not a reseller |
 | S3 | Bridges business, data, information governance, and AI | Make this bridge the explicit differentiator (Section 8) rather than listing each skill separately |
 | S4 | Enterprise information architecture and governance depth | Use to win trust with technical/IT buyers who are skeptical of "AI consultants" |
@@ -100,7 +109,7 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 | W2 | Broad, undifferentiated positioning | Collapse to one primary position + 5 service pillars before launch |
 | W3 | 100% solo delivery dependency | Cap concurrent engagements; plan for subcontractor bench in Year 2 (Section 33) |
 | W4 | Limited social proof / audience today | Start LinkedIn authority content immediately — it is free and compounds |
-| W5 | Enterprise vs SME messaging conflict | Separate messaging tracks or defer SME market entirely for year 1 (Section 3) |
+| W5 | "All sectors" targeting risks generic, forgettable positioning | Anchor on **mid-size company** as the qualifying filter instead of an industry vertical (Section 3) |
 | W6 | No productised packages yet | Build 3-tier packaging in Section 11 before launch |
 | W7 | Limited public content/SEO footprint | Treat content as a 6–12 month investment, not a launch requirement |
 | W8 | Geographic reach currently Oman-centric | Launch Oman/GCC-first; expand messaging only once proof exists |
@@ -110,7 +119,7 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 |---|---|---|
 | O1 | Microsoft Copilot / enterprise AI adoption wave | Lead secondary messaging with "AI readiness built on governed data" |
 | O2 | Data governance demand rising with AI adoption | Use governance as the trust-building wedge into AI conversations |
-| O3 | Oil & Gas/Energy technical data pain is well understood by you | Anchor first case studies and outreach here |
+| O3 | Oil & Gas/Energy technical data experience gives unusually deep rigor for a cross-sector mid-market practice | Use as a credibility anchor in conversations and case studies, without restricting the target market to that one industry |
 | O4 | Oman/GCC market has fewer specialist boutique competitors than the US/UK | Position as the accessible, embedded-in-region specialist |
 | O5 | Government digital transformation push (GCC-wide) | Treat as Year 2–3 opportunity once track record exists, not launch target |
 | O6 | Partnership potential with Microsoft partners/larger consultancies needing a specialist subcontractor | Build this as a parallel revenue channel, not the primary one |
@@ -134,37 +143,40 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 
 ## SECTION 3 — MARKET SEGMENTATION
 
-| Segment | Org Size | Decision-Maker | Urgency | Budget Potential | Sales-Cycle | Best Entry Service | Best Long-Term Service | Priority |
+**Client decision (v1.1):** The primary targeting axis is now **company size**, not industry. The target market is **mid-size companies across all sectors** — provisionally assumed as roughly 50–500 employees or an equivalent revenue band (logged as a critical assumption in Section 35, pending your confirmation). Sector is treated as a secondary lens: all sectors are in scope, with a small number of sectors singled out below only because your existing credibility/network makes them faster to open, not because other sectors are excluded.
+
+| Segment (sector, within the mid-size band) | Typical Size | Decision-Maker | Urgency | Budget Potential | Sales-Cycle | Best Entry Service | Best Long-Term Service | Priority |
 |---|---|---|---|---|---|---|---|---|
-| Oil & Gas operators | Large/Enterprise | IM/Data Manager, Engineering Director | Med-High | High | Long (6–12mo) | Technical data assessment | Governance framework + AI knowledge assistant | **9/10** |
-| Energy companies (adjacent) | Medium-Large | Ops/IT Director | Med | High | Med-Long | BI/dashboard audit | Data governance + BI programme | **8/10** |
-| Engineering companies/contractors | SME-Medium | Technical/Ops Director | Med | Med-High | Med | Document/info architecture review | SharePoint governance + automation | **8/10** |
-| Microsoft 365 customers (cross-industry) | SME-Medium | IT Manager/CIO | Med | Med | Short-Med | M365 optimisation checklist | Automation + Copilot readiness | **7/10** |
+| Energy / Engineering / Industrial (mid-size) | Mid-size | Ops/IT/Technical Director | Med-High | High | Med-Long | Technical data or BI assessment | Governance framework + AI knowledge assistant | **9/10** |
+| Microsoft 365 / Power Platform-heavy companies (any sector) | Mid-size | IT Manager/CIO | Med | Med-High | Short-Med | M365 optimisation checklist | Automation + Copilot readiness | **8/10** |
+| Professional & financial services firms (mid-size) | Mid-size | Ops Director/Partner | Med | Med-High | Med | BI/dashboard audit | Data governance + BI programme | **7/10** |
+| Manufacturing, logistics & distribution (mid-size) | Mid-size | Ops/Supply Chain Director | Med | Med-High | Med | Document/data discovery review | Technical data management | **7/10** |
 | Consulting firms (subcontracting) | N/A | Delivery Partner | Variable | Med | Short (relationship-based) | Specialist bench engagement | Ongoing subcontract relationship | **6/10** |
-| Information/data teams (embedded) | Medium-Large | Head of Data/Info Mgmt | Med | Med | Med | Governance scorecard | Retainer advisory | **6/10** |
-| Generic SMEs (any industry) | Small | Owner/GM | Variable, often low | Low-Med | Short | — | — | **3/10 (deprioritise)** |
+| Retail, hospitality & other mid-size sectors | Mid-size | Ops/IT lead | Low-Med | Med | Med | M365/reporting health check | BI or automation programme | **5/10** |
+| Micro / small businesses (any sector) | Small | Owner/GM | Variable, often low | Low | Short | — | — | **2/10 (deprioritise — too small)** |
+| Large enterprise / multinational | Large | Programme Director/CIO | Med | High (if won) | Very long, procurement-heavy | — | — | **2/10 (deprioritise — too big/slow for now)** |
 | Government organisations | Large | Programme Director | Low-Med (procurement-bound) | High (if won) | Very long (12mo+) | — | — | **2/10 (defer to Year 2–3)** |
 
 ### Recommendation
 
-- **Primary launch market:** Oil & Gas / Energy / Engineering companies in Oman and the wider GCC — matches your strongest credibility, and technical/engineering buyers respond to demonstrated domain fluency over marketing polish.
-- **Secondary market:** Microsoft 365 / Power Platform customers cross-industry — shorter sales cycle, useful for cash flow and case study diversity while enterprise deals mature.
-- **Future market (Year 2+):** Government digital transformation, once 2–3 verifiable case studies and a track record exist.
-- **Market to avoid initially:** Generic, industry-agnostic small business automation. It is the most crowded, most price-sensitive segment and actively undermines the premium/enterprise brand you are building.
+- **Primary launch market:** Mid-size companies (≈50–500 employees, assumption) across all sectors. Within that band, Energy/Engineering/Industrial and Microsoft-365-heavy organisations are the fastest opening wedges, since your credibility and network are strongest there — but they are entry points into the mid-size market, not exclusions of other sectors.
+- **Secondary lens:** Microsoft 365/Power Platform environment as a cross-cutting fit signal, applied within the mid-size band regardless of sector.
+- **Future market (Year 2+):** Government digital transformation and large enterprise, once 2–3 verifiable case studies and a track record exist.
+- **Market to avoid initially:** Micro/small businesses (too price-sensitive, often lack real governance pain or budget) and large multinational enterprises (too slow, too procurement-heavy, require accreditation/scale you don't yet have).
 
-**Current Assumption:** All 13 listed audiences are viable near-term targets.
-**Strategic Challenge:** No single consultant can credibly serve 13 audiences with one message; buyer trust is industry-specific, especially in Oil & Gas/Engineering.
-**Alternative Options:** (a) Serve all segments with generic messaging; (b) pick one industry-vertical anchor with a horizontal secondary; (c) launch multiple parallel brands per segment.
-**Recommended Direction:** Option (b) — Oil & Gas/Energy/Engineering as the vertical anchor, Microsoft 365 customers as the horizontal secondary.
-**Commercial Reasoning:** Vertical focus increases perceived expertise and referral density within a tight-knit industry (Oil & Gas in Oman/GCC is a relationship-driven market); the horizontal secondary keeps the pipeline diversified and less dependent on one industry's budget cycles.
-**Decision Required:** Approve Oil & Gas/Energy/Engineering as primary; Microsoft 365 customers as secondary; Government and generic SME deprioritised for Year 1.
+**Current Assumption:** "Mid-size" needs a working definition to be actionable in outreach and website copy.
+**Strategic Challenge:** Without a size definition, "mid-size" is just as vague as "all sectors" — messaging, case studies, and pricing all need a concrete band to aim at.
+**Alternative Options:** (a) Define mid-size by employee count (e.g., 50–500); (b) define by revenue; (c) define qualitatively ("has a dedicated IT/ops function but no in-house data/BI specialist").
+**Recommended Direction:** Use employee count (≈50–500) as the primary working definition, refined by the qualitative marker in (c) — mid-size companies large enough to have a formal IT/ops function but no dedicated data, governance, or AI specialist in-house.
+**Commercial Reasoning:** A size-based (rather than industry-based) filter widens the addressable market considerably while still excluding the two least profitable extremes — micro-businesses (no budget) and large enterprises (too slow to close, too demanding on accreditation) — keeping messaging focused without re-narrowing to one vertical.
+**Decision Required:** Confirm the ≈50–500 employee working definition of "mid-size" (or propose an alternative); approve mid-size-across-all-sectors as primary, with Government and large enterprise deferred and micro/small business deprioritised.
 
 ---
 
 ## SECTION 4 — IDEAL CUSTOMER PROFILES
 
-**ICP 1 — Technical Data / Information Manager (Oil & Gas / Engineering)**
-- Org type: E&P operator, engineering contractor, or oilfield services company
+**ICP 1 — Technical Data / Information Manager (Mid-Size, Technically Complex Organisation)**
+- Org type: Mid-size engineering contractor, manufacturer, logistics operator, or similarly data-intensive company (Oil & Gas remains a strong proof point given your background, but this ICP applies across technically complex mid-size sectors)
 - Context: Owns scattered technical data (well logs, engineering drawings, reports) across shared drives, SharePoint, and legacy systems
 - Primary problems: No single source of truth; poor data discoverability; compliance/audit exposure
 - Emotional frustration: Constantly firefighting information requests; feels personally exposed when data can't be found
@@ -173,13 +185,13 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 - Desired outcome: A governed, searchable technical data environment
 - Buying trigger: A failed audit, a costly "we used the wrong revision" incident, leadership mandate for digital transformation
 - Objections: "We already tried a SharePoint project that failed"; "Our data is too sensitive for outside consultants"
-- Trust requirement: Demonstrated Oil & Gas technical data fluency; strict confidentiality approach
+- Trust requirement: Demonstrated technical/operational data fluency (Oil & Gas background as proof point); strict confidentiality approach
 - Preferred engagement: Paid assessment → phased implementation
 - Recommended service: Technical Data Management / Information Architecture pillar
 - Website journey: Industry-specific landing page → assessment offer → discovery call
 - CTA: "Request a Technical Data Discovery Session"
 
-**ICP 2 — Operations Director lacking KPI visibility (Energy/Engineering)**
+**ICP 2 — Operations Director lacking KPI visibility (Mid-Size, Any Sector)**
 - Context: Dashboards exist but leadership still asks for numbers manually via email/Excel
 - Primary problems: BI investment underused; no single reporting standard; slow month-end reporting
 - Emotional frustration: Looks unprepared in leadership meetings
@@ -239,7 +251,7 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 - Website journey: Dedicated "Partnerships" page, not the main funnel
 - CTA: "Explore a Partnership"
 
-**Note:** Government transformation leader and a sixth ICP were considered but intentionally excluded from the primary five, consistent with the Section 3 recommendation to defer Government to Year 2+.
+**Note:** A Government transformation leader and a large-enterprise ICP were considered but intentionally excluded from the primary five, consistent with the Section 3 recommendation to defer Government and large enterprise and to focus on mid-size companies across sectors.
 
 ---
 
@@ -247,14 +259,14 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 
 | Problem | Target Customer | Business Impact | Consulting Solution | Suggested Messaging |
 |---|---|---|---|---|
-| Technical/engineering data scattered across systems | O&G/Engineering data managers | Rework, compliance risk, slow decisions | Data discovery + information architecture | "Find any technical document in seconds, not days." |
+| Business-critical/technical data scattered across systems | Mid-size company data/ops managers (any sector) | Rework, compliance risk, slow decisions | Data discovery + information architecture | "Find any critical document in seconds, not days." |
 | Executives lack timely visibility | Ops/Exec leadership | Slow, low-confidence decisions | BI modernisation, executive dashboards | "Dashboards your leadership actually trusts." |
 | Reporting is manual (Excel/email) | Ops managers, PMOs | Wasted analyst hours, error risk | Reporting automation + BI | "Stop rebuilding the same report every month." |
 | Employees can't find information | Any mid/large org | Lost productivity, duplicated work | Enterprise search, knowledge discovery | "Your company already knows the answer — now it can find it." |
 | SharePoint/M365 environments uncontrolled | IT/Info managers | Security & compliance exposure | SharePoint governance | "Turn SharePoint sprawl into a governed system." |
 | Workflows depend on email/manual handoffs | Ops teams | Delay, error, no audit trail | Power Automate workflow design | "Replace the email chain with a workflow that just works." |
 | AI adoption lacks structure | CIOs/IT Directors | Risk of failed or unsafe AI rollout | AI readiness assessment + governed pilot | "AI adoption without the chaos." |
-| Technical data poorly governed | Engineering/technical teams | Costly errors from wrong data versions | Technical data governance framework | "Govern your technical data before it costs you." |
+| Technical data poorly governed | Data/technical teams (any sector) | Costly errors from wrong data versions | Technical data governance framework | "Govern your technical data before it costs you." |
 | Business knowledge trapped in documents | Knowledge-heavy orgs | Institutional knowledge loss on staff turnover | Knowledge management + AI assistants | "Don't let expertise walk out the door." |
 | Data ownership unclear | Data/IT teams | Accountability gaps, stalled initiatives | Data governance/ownership model | "Someone should own that data. Let's decide who." |
 | Dashboards exist but don't drive decisions | Ops/Exec leadership | Wasted BI investment | Dashboard redesign around decisions, not data dumps | "A dashboard is not a decision. Let's fix that." |
@@ -262,7 +274,7 @@ The core commercial risk is not weak experience — it is **scope sprawl**. The 
 
 ### Top 5 Problems to Lead With (Most Commercially Attractive)
 
-1. **Technical/engineering data scattered across systems** (strongest domain credibility, clearest ROI story)
+1. **Business-critical/technical data scattered across systems** (universal mid-market pain, reinforced by your technical rigor)
 2. **Dashboards exist but don't drive decisions** (universal pain, easy to demonstrate)
 3. **AI adoption lacks structure** (highest current urgency/budget momentum)
 4. **Workflows depend on email/manual handoffs** (fast, tangible time-savings win)
@@ -290,8 +302,8 @@ No single canned option fully captures your differentiator — the intersection 
 - **Primary positioning:** "**Data & AI Consultant**" (short, public-facing, modern, searchable)
 - **Supporting positioning / credibility layer:** "Enterprise Information Management, Governance & Microsoft Technologies" (used on About/Services pages to substantiate the primary claim)
 - **One-sentence market description:** "I help organisations with fragmented technical data and underused Microsoft 365 investments build governed, AI-ready information environments — so leadership gets faster, more trustworthy decisions."
-- **LinkedIn headline:** "Data & AI Consultant | Enterprise Information Governance, Power BI, Power Platform & Copilot | Oil & Gas / Energy / Engineering"
-- **Website hero positioning:** "Governed Data. Practical AI. Better Decisions." — with a supporting line naming the industry focus.
+- **LinkedIn headline:** "Data & AI Consultant | Enterprise Information Governance, Power BI, Power Platform & Copilot | For Mid-Size Companies"
+- **Website hero positioning:** "Governed Data. Practical AI. Better Decisions." — with a supporting line naming the company-size focus (mid-size, cross-sector) rather than an industry vertical.
 - **Short professional title:** Data & AI Consultant
 - **Long professional title:** Independent Data, Information Governance & AI Consultant specialising in Microsoft technologies for technical and industrial organisations
 
@@ -312,9 +324,9 @@ No single canned option fully captures your differentiator — the intersection 
 
 ### Supporting Value Propositions
 
-- **SMEs:** "Get enterprise-grade data discipline without an enterprise-size team or budget."
-- **Oil & Gas:** "Govern your technical data the way your engineering decisions deserve to be trusted."
-- **Engineering companies:** "Turn scattered project documentation into a governed, searchable system your teams actually use."
+- **Mid-size companies (any sector):** "Get enterprise-grade data discipline and AI readiness without an enterprise-size team or budget."
+- **Technically complex mid-size companies (engineering, manufacturing, logistics):** "Govern your operational and technical data with the same discipline demanded in high-compliance industries like Oil & Gas."
+- **Professional & financial services firms:** "Turn scattered client and project documentation into a governed, searchable system your teams actually use."
 - **Government:** "Build the data governance foundation that AI adoption and digital transformation mandates require." *(messaging held for Year 2+ per Section 3)*
 - **Microsoft 365 customers:** "You already own the tools. Let's make them earn their budget line."
 - **Consulting partners:** "A senior, discreet Microsoft data & AI specialist you can bring into client engagements without risk."
@@ -323,11 +335,11 @@ No single canned option fully captures your differentiator — the intersection 
 
 - **One-line:** "Governed data. Practical AI. Better decisions."
 - **Short paragraph:** "I help technical and industrial organisations fix fragmented data and underused Microsoft 365 investments — building governed, AI-ready information environments that let leaders decide faster and teams stop searching for answers."
-- **Homepage hero:** "Governed Data. Practical AI. Better Decisions. — Independent Data & AI Consultant for technical and industrial organisations."
-- **LinkedIn:** "I help energy, engineering, and technical organisations turn scattered data into governed, AI-ready decision assets — using Microsoft 365, Power Platform, and Copilot."
+- **Homepage hero:** "Governed Data. Practical AI. Better Decisions. — Independent Data & AI Consultant for mid-size companies across sectors."
+- **LinkedIn:** "I help mid-size companies across sectors turn scattered data into governed, AI-ready decision assets — using Microsoft 365, Power Platform, and Copilot."
 - **Proposal opening line:** "This engagement is designed to convert [Client]'s fragmented [data/reporting/documentation] into a governed, decision-ready system within [timeframe]."
-- **Elevator pitch (15 sec):** "I help industrial and technical organisations fix messy data and turn their existing Microsoft tools into real decision-making systems — governance first, AI second, so it actually holds up."
-- **Networking introduction:** "I work with technical and energy companies to sort out their data mess — governance, reporting, and now AI — using the Microsoft tools they already own."
+- **Elevator pitch (15 sec):** "I help mid-size companies fix messy data and turn their existing Microsoft tools into real decision-making systems — governance first, AI second, so it actually holds up."
+- **Networking introduction:** "I work with mid-size companies — across industries — to sort out their data mess — governance, reporting, and now AI — using the Microsoft tools they already own."
 
 ---
 
@@ -336,7 +348,7 @@ No single canned option fully captures your differentiator — the intersection 
 ### Ten Potential Unique Selling Points
 
 1. Real enterprise information governance experience, not just tool delivery
-2. Direct Oil & Gas/Engineering technical data domain fluency
+2. Technical data domain fluency forged in a demanding, high-compliance industry (Oil & Gas/Engineering), applicable across mid-size sectors
 3. Bridges business, data, IT, and AI — most competitors sit in only one lane
 4. Deep, hands-on Microsoft ecosystem fluency (not reseller-driven)
 5. Governance-first approach to AI (reduces client risk vs. "just deploy Copilot" consultants)
@@ -348,7 +360,7 @@ No single canned option fully captures your differentiator — the intersection 
 
 ### Reduced Set
 
-- **Three primary differentiators:** (1) Governance-first AI approach, (2) Technical/industrial domain fluency, (3) Business-to-technical bridge in one senior person
+- **Three primary differentiators:** (1) Governance-first AI approach, (2) Cross-sector technical/data rigor forged in demanding industrial environments, (3) Business-to-technical bridge in one senior person
 - **Three supporting differentiators:** (1) Microsoft ecosystem depth, (2) Independent/vendor-neutral, (3) Regional responsiveness
 - **One memorable market promise:** "AI and automation that actually holds up — because the data underneath it is governed."
 
@@ -381,7 +393,7 @@ No single canned option fully captures your differentiator — the intersection 
 | Independent consultants (generalist) | Low cost, flexible | Broad, shallow positioning; low trust signals | Same trap this business must avoid | Differentiate via focus + case studies + premium positioning |
 | Large technology consultancies | Scale, brand trust, enterprise sales machine | Slow, expensive, junior delivery teams | Mid-market clients priced out or under-served | Do not compete head-on; position as the senior alternative for engagements too small for them |
 | Local Oman consultancies | Local relationships, market knowledge | Often generalist IT, limited data/AI specialism | Genuine data/AI specialism locally is scarce | Be the recognised local specialist in this niche |
-| GCC consultancies | Regional scale, government relationships | Overhead, less hands-on senior delivery | Mid-size technical/energy firms underserved | Position as the accessible, senior, hands-on alternative |
+| GCC consultancies | Regional scale, government relationships | Overhead, less hands-on senior delivery | Mid-size companies across sectors are underserved between large local players and multinational consultancies | Position as the accessible, senior, hands-on alternative |
 
 **Where to avoid direct competition:** Large technology consultancies' enterprise-wide, multi-year transformation mega-programmes, and Government tenders requiring vendor accreditation this business does not yet hold.
 
@@ -433,9 +445,9 @@ No single canned option fully captures your differentiator — the intersection 
 - **Engagement model:** Assessment → pilot → scale
 - **CTA:** "Start with an AI Readiness Assessment"
 
-### Pillar 5 — Technical Data Management (Industry Specialist)
-- **Customer problem:** Scattered engineering/technical data specific to Oil & Gas/Engineering environments
-- **Target customer:** Technical data managers, engineering directors
+### Pillar 5 — Technical Data Management (Specialist Service)
+- **Customer problem:** Scattered technical/operational data in technically complex mid-size organisations (engineering, manufacturing, logistics, and similarly data-intensive operations — not restricted to any one industry)
+- **Target customer:** Technical/operations data managers in data-intensive mid-size organisations
 - **Business value:** Reduced rework and compliance risk, trustworthy technical decisions
 - **Scope:** Technical data discovery, data catalogues, engineering information architecture
 - **Deliverables:** Data discovery platform design, technical data catalogue, governance model
@@ -641,7 +653,7 @@ The brand should feel premium, credible, enterprise-ready, and human — never l
 | 6 | Where Governance Meets AI Readiness. | Enterprise/IT | Names the exact gap in the market | Precise positioning | Requires audience to already understand both terms |
 | 7 | Practical AI, Built on Governed Data. | Technical buyers | Reinforces governance-first order of operations | Strong, on-strategy | Slightly technical tone |
 | 8 | Information Architecture for the AI Era. | Enterprise/IT | Modernises a "legacy" discipline | Thoughtful positioning | Less immediately outcome-focused |
-| 9 | Data Discipline for Complex Organisations. | Oil & Gas/Engineering | Speaks directly to technical/industrial buyers | Domain-relevant | Less appealing to SME segment |
+| 9 | Data Discipline for Complex Organisations. | Technical/industrial mid-size companies | Speaks directly to technically complex buyers | Domain-relevant | Less appealing to non-technical mid-size sectors (services, retail, etc.) |
 | 10 | Turning Scattered Data Into Decisions. | General | Simple before/after framing | Easy to grasp | Common pattern in the category |
 
 ### Selections
@@ -653,11 +665,11 @@ The brand should feel premium, credible, enterprise-ready, and human — never l
 
 ### Homepage Copy
 - **Headline:** "Governed Data. Practical AI. Better Decisions."
-- **Subheadline:** "I help technical and industrial organisations turn fragmented data and underused Microsoft 365 investments into governed, AI-ready systems — so leaders decide faster and teams stop hunting for information."
+- **Subheadline:** "I help mid-size companies across sectors turn fragmented data and underused Microsoft 365 investments into governed, AI-ready systems — so leaders decide faster and teams stop hunting for information."
 - **Primary CTA:** "Book a Discovery Call"
 - **Secondary CTA:** "Start with an Assessment"
-- **Short company description:** "Independent Data & AI Consultant helping technical and industrial organisations govern their data and adopt AI responsibly, using Microsoft technologies."
-- **Long company description:** "I work with technical, energy, and engineering organisations to solve the problems that sit underneath every failed BI project and stalled AI rollout: ungoverned, fragmented data. Combining enterprise information governance experience with hands-on delivery in Power BI, Power Platform, SharePoint, and Microsoft Copilot, I help leadership teams turn scattered information into governed, decision-ready, AI-ready systems — without the overhead of a large consultancy."
+- **Short company description:** "Independent Data & AI Consultant helping mid-size companies across sectors govern their data and adopt AI responsibly, using Microsoft technologies."
+- **Long company description:** "I work with mid-size companies across sectors to solve the problems that sit underneath every failed BI project and stalled AI rollout: ungoverned, fragmented data. Combining enterprise information governance experience with hands-on delivery in Power BI, Power Platform, SharePoint, and Microsoft Copilot, I help leadership teams turn scattered information into governed, decision-ready, AI-ready systems — without the overhead of a large consultancy."
 
 ---
 
@@ -681,7 +693,7 @@ The brand should feel premium, credible, enterprise-ready, and human — never l
 
 - **Days 1–30:** Finalise positioning and messaging; publish LinkedIn profile update; begin weekly LinkedIn posts on the five lead problems (Section 5); draft confidentiality/data-handling statement.
 - **Days 31–60:** Produce 1–2 demonstration/anonymised case studies; run one paid pilot assessment (even at reduced/introductory pricing) to generate a first real testimonial candidate; publish first long-form article per content pillar.
-- **Days 61–90:** Launch website with the proof assets produced; begin direct outreach to Oil & Gas/Engineering network contacts; formalise assessment/workshop lead magnet.
+- **Days 61–90:** Launch website with the proof assets produced; begin direct outreach to your professional network across sectors, prioritising mid-size organisations; formalise assessment/workshop lead magnet.
 
 ---
 
@@ -692,7 +704,7 @@ The brand should feel premium, credible, enterprise-ready, and human — never l
 | Concept | Target Industry | Business Problem | Basis | CTA |
 |---|---|---|---|---|
 | AI Knowledge Assistant | Technical/engineering org | Institutional knowledge trapped in documents | **Demonstration** (build a self-directed proof-of-concept using public/synthetic data) unless a real anonymised project exists | "Discuss an AI Knowledge Assistant for Your Team" |
-| Technical Data Discovery Platform | Oil & Gas/Engineering | Scattered well/engineering data | Real anonymised if permissible under employer confidentiality (Section 30); otherwise conceptual/demonstration | "Request a Technical Data Discovery Session" |
+| Technical Data Discovery Platform | Mid-size technically complex organisation (e.g., engineering, manufacturing, logistics) | Scattered operational/technical data | Real anonymised if permissible under employer confidentiality (Section 30); otherwise conceptual/demonstration | "Request a Technical Data Discovery Session" |
 | SharePoint Governance Solution | Any mid/large org | Uncontrolled SharePoint sprawl | Demonstration build | "Get a SharePoint Health Check" |
 | Power BI Executive Dashboard | Ops-heavy org | Manual, low-trust reporting | Demonstration build using synthetic data | "Request a Dashboard Audit" |
 | Data Governance Framework | Technical/industrial org | No clear data ownership | Conceptual framework showcase | "Request a Governance Assessment" |
@@ -713,7 +725,7 @@ For each concept, document: title, target industry, business problem, diagnostic
 | Power BI / Dashboard Audit | Ops directors | Short review + findings call | High |
 | SharePoint Health Check | IT managers | Checklist + review call | Medium-High |
 | M365 Optimisation Checklist | IT/Finance leadership | Downloadable checklist | Medium |
-| Technical Data Maturity Assessment | Technical/O&G data managers | Structured scorecard | High |
+| Technical Data Maturity Assessment | Technical/operations data managers (mid-size, any technically complex sector) | Structured scorecard | High |
 | Automation Opportunity Assessment | Ops teams | Short diagnostic | Medium |
 
 ### Top 3 for Launch
@@ -727,7 +739,7 @@ Each should follow up with a discovery call, feeding directly into the Foundatio
 
 ## SECTION 20 — CUSTOMER JOURNEY
 
-| Stage | SME Client | Enterprise Client | Consulting Partner |
+| Stage | Mid-Size Client (Primary) | Larger Enterprise Client (Secondary/Opportunistic) | Consulting Partner |
 |---|---|---|---|
 | Awareness | LinkedIn post, referral | LinkedIn, industry network, referral | Direct network relationship |
 | Education | Blog/LinkedIn article | Case study, whitepaper | Direct conversation |
@@ -768,7 +780,8 @@ Each should follow up with a discovery call, feeding directly into the Foundatio
 | Clear, specific business problem | +2 |
 | Decision-maker or strong influencer engaged | +2 |
 | Budget acknowledged (even informally) | +2 |
-| Industry fit (O&G/Energy/Engineering/M365) | +1 |
+| Mid-size company profile (not micro/small, not large enterprise) | +1 |
+| Microsoft 365 / Power Platform environment in place | +1 |
 | Urgency/trigger event present | +1 |
 | Realistic timeline (not "yesterday" or "someday") | +1 |
 | Requires formal procurement/accreditation | −2 |
@@ -782,9 +795,9 @@ Each should follow up with a discovery call, feeding directly into the Foundatio
 
 The website's primary strategic role at launch is a **lead-qualification and authority platform** — not a broad service catalogue, not an e-commerce-style booking funnel, and not (yet) a large content/SEO engine.
 
-- **Primary conversion goal:** Qualified discovery-call bookings from the primary segment (Oil & Gas/Energy/Engineering + Microsoft 365 customers).
+- **Primary conversion goal:** Qualified discovery-call bookings from the primary segment (mid-size companies across sectors, with a Microsoft 365/Power Platform environment as a strong fit signal).
 - **Secondary conversion goals:** Lead magnet downloads (assessment tools); LinkedIn/newsletter follow.
-- **What the website should NOT attempt at launch:** Serve as a full content/SEO hub with dozens of articles; offer instant self-serve checkout/booking without qualification; present a long, undifferentiated service list; target Government or generic SME audiences.
+- **What the website should NOT attempt at launch:** Serve as a full content/SEO hub with dozens of articles; offer instant self-serve checkout/booking without qualification; present a long, undifferentiated service list; target Government, micro/small businesses, or large multinational enterprises.
 
 ---
 
@@ -796,7 +809,7 @@ The website's primary strategic role at launch is a **lead-qualification and aut
 | About | Founder credibility, story, confidentiality stance | **Essential** |
 | Services (overview) | Present 5 pillars clearly | **Essential** |
 | Individual service pages (x5) | Deep-dive per pillar with tailored CTA | **Essential** (can launch with 3, add 2 in Phase 2 content build) |
-| Industries (O&G/Energy/Engineering focus) | Domain credibility | **Essential** |
+| Who We Help (mid-size companies, cross-sector) | Company-size and sector-fit credibility | **Essential** |
 | Case studies/Portfolio | Proof, even if demonstration-labeled | **Essential** (minimum 2–3 at launch) |
 | Assessments/Lead magnets | Lead capture | **Essential** (minimum 1 at launch) |
 | Contact / Book a Discovery Call | Conversion | **Essential** |
@@ -815,7 +828,7 @@ The website's primary strategic role at launch is a **lead-qualification and aut
 | Credibility statement | Establish expertise fast | Years of experience, industry depth, Microsoft fluency | — |
 | Customer problems | Mirror the 5 lead problems (Section 5) | "Sound familiar?" framing | — |
 | Service pillars | Show the 5-pillar architecture | Clear, non-overwhelming structure | Explore Services |
-| Industry focus | Domain credibility (O&G/Energy/Engineering) | "Built for technical and industrial organisations" | — |
+| Who we help | Company-size fit credibility (mid-size, cross-sector) | "Built for mid-size companies — big enough to have real data problems, small enough to move fast" | — |
 | Case studies/proof | Build trust | Demonstration-labeled proof of method | View Case Studies |
 | Methodology | Differentiate via process, not just tools | Name the proprietary method (Section 28) | — |
 | Why work with me | Reinforce differentiation (Section 8) | Governance-first, independent, senior delivery | — |
@@ -829,14 +842,14 @@ The website's primary strategic role at launch is a **lead-qualification and aut
 
 ## SECTION 25 — CONTENT STRATEGY (Preliminary Direction Only — Full Calendar Is a Phase 2 Deliverable)
 
-**Content pillars:** Data Governance, Business Intelligence, AI Adoption & Copilot, Microsoft 365/SharePoint, Technical Data Management (O&G/Engineering focus), Automation.
+**Content pillars:** Data Governance, Business Intelligence, AI Adoption & Copilot, Microsoft 365/SharePoint, Technical Data Management (cross-sector, for technically complex mid-size organisations), Automation.
 
 25 illustrative content ideas (title / audience / funnel stage / priority):
 
 1. "Why Your Power BI Dashboards Aren't Driving Decisions" — Ops leaders — Awareness — High
 2. "A Practical Data Governance Framework for Technical Organisations" — Info managers — Consideration — High
 3. "Is Your Data Ready for Copilot? A Readiness Checklist" — CIOs — Awareness — High
-4. "The Real Cost of Scattered Engineering Data" — O&G technical managers — Awareness — High
+4. "The Real Cost of Scattered Operational Data" — Mid-size company data/ops managers — Awareness — High
 5. "SharePoint Sprawl: How It Happens and How to Fix It" — IT managers — Awareness — Medium
 6. "Governance First: Why AI Projects Fail Without It" — CIOs/IT — Consideration — High
 7. "Power Automate vs. Manual Workflows: A Real Cost Comparison" — Ops managers — Consideration — Medium
@@ -844,14 +857,14 @@ The website's primary strategic role at launch is a **lead-qualification and aut
 9. "Enterprise Search: Why Employees Can't Find What They Need" — IT/Knowledge managers — Awareness — Medium
 10. "Microsoft 365 Optimisation: Are You Using What You're Paying For?" — IT/Finance — Awareness — High
 11. "Building an AI Knowledge Assistant the Right Way" — CIOs — Consideration — High
-12. "Technical Data Catalogues for Oil & Gas: A Primer" — Technical data managers — Awareness — High
+12. "Technical Data Catalogues for Complex Mid-Size Organisations: A Primer" — Technical data managers — Awareness — High
 13. "Data Governance vs. Data Management: What's the Difference?" — Data/IT teams — Education — Medium
 14. "5 Signs Your Reporting Process Needs Automation" — Ops managers — Awareness — Medium
 15. "How to Prepare Your Organisation for Copilot Studio" — IT/CIOs — Consideration — High
 16. "The Hidden Risk in Ungoverned SharePoint Permissions" — IT/Compliance — Awareness — Medium
 17. "From Data Chaos to Decision-Ready: A Case Study Approach" — All — Decision — High
 18. "Why Independent Consultants Can Outperform Large Consultancies on Data Projects" — All — Consideration — Medium
-19. "Digital Transformation in Oman's Energy Sector: What's Changing" — O&G/Energy — Awareness — Medium
+19. "Digital Transformation for Mid-Size Companies in Oman: What's Changing" — Mid-size companies, any sector — Awareness — Medium
 20. "AI Governance: What It Means and Why It Matters" — CIOs — Consideration — High
 21. "Power BI Maturity: Where Does Your Organisation Stand?" — Ops leaders — Awareness — High
 22. "Information Architecture 101 for Non-Technical Leaders" — Executives — Education — Medium
@@ -875,8 +888,9 @@ The website's primary strategic role at launch is a **lead-qualification and aut
 | "Technical Data Management Consultant" | Niche/service, industry-specific | **Primary — this is the least contested, most differentiated term** |
 | "Digital Transformation Consultant Oman" | Broad, high competition, vague | **Deprioritise — too broad, weak conversion signal** |
 | "Data and AI Consultant GCC" | Regional/service | Secondary/long-term |
+| "Data Consultant for Mid-Size Companies" / "Data Governance for Growing Businesses" | Commercial, size-qualified | Primary — directly reflects the size-based positioning, low current competition |
 
-**Recommended focus:** Primary = "Technical Data Management Consultant" + "Data Governance Consultant" (differentiated, credible, lower competition); secondary = "Microsoft Copilot Consultant" (rising demand); local SEO = Oman-qualified variants of the above rather than generic "Digital Transformation Consultant Oman," which is too broad to convert well.
+**Recommended focus:** Primary = "Technical Data Management Consultant" + "Data Governance Consultant" + size-qualified terms like "Data Consultant for Mid-Size Companies" (differentiated, credible, lower competition, aligned to the mid-size positioning); secondary = "Microsoft Copilot Consultant" (rising demand); local SEO = Oman-qualified variants of the above rather than generic "Digital Transformation Consultant Oman," which is too broad to convert well.
 
 **Risks:** Low search volume for hyper-specific niche + local terms (expected — LinkedIn/referral will carry more early volume than SEO); keyword cannibalisation if both "Data Governance Consultant" and "Data Management Consultant" pages compete for the same query — assign clearly distinct page intents.
 
@@ -1025,6 +1039,7 @@ This gives a distinctive, ownable framework that can be referenced consistently 
 | Target languages for the website (English only, or English + Arabic)? | Affects SEO, audience reach, and Phase 2 scope | No | Assumed English-first for launch | Medium — may limit local reach |
 | Preferred invoicing currency/entity name | Needed for commercial templates | No | Assumed OMR and personal name for now | Low |
 | Any existing domain name or hosting preference? | Needed for Phase 2 technical planning | No | Not assumed — to be confirmed in Phase 2 | None yet |
+| What employee-count or revenue band defines "mid-size" for this business? | Determines qualification criteria, messaging, and pricing bands | No, but high-value to confirm early | Assumed ≈50–500 employees (Section 3) | Medium — misjudging the band could mean chasing leads that are actually too small or too large |
 
 ---
 
@@ -1032,7 +1047,7 @@ This gives a distinctive, ownable framework that can be referenced consistently 
 
 | Assumption | Confidence | Business Impact | Classification | Validation Method | Owner |
 |---|---|---|---|---|---|
-| Oil & Gas/Energy/Engineering is the strongest primary market for Year 1 | Medium-High | High | **Critical** | First 90 days of outreach response | You |
+| Mid-size companies (≈50–500 employees, assumption) across all sectors are the strongest primary market for Year 1 | Medium-High | High | **Critical** | First 90 days of outreach response across multiple sectors | You |
 | Personal-name brand outperforms an invented brand at launch | Medium-High | Medium | Important | Test via LinkedIn/website engagement | You |
 | "Data & AI Consultant" hybrid positioning resonates better than any single canned option | Medium | High | **Critical** | Test with 5–10 real network conversations before finalising website copy | You |
 | Demonstration-labeled case studies are sufficient trust signal at launch | Medium | Medium | Important | Monitor discovery-call conversion rate | You |
@@ -1047,7 +1062,7 @@ This gives a distinctive, ownable framework that can be referenced consistently 
 
 | Decision Required | Options | Recommendation | Risk of Delay |
 |---|---|---|---|
-| Primary target market | O&G/Energy/Engineering vs. broad SME vs. Government-first | O&G/Energy/Engineering primary, M365 customers secondary | Continued scope sprawl, diluted messaging |
+| Primary target market | Mid-size companies (all sectors) vs. narrow industry vertical (e.g., O&G only) vs. Government-first vs. micro/small business focus | Mid-size companies across all sectors, with Microsoft 365/Power Platform environment as a cross-cutting fit signal | Continued scope sprawl, diluted messaging |
 | Primary positioning | 8 options in Section 6 vs. hybrid | Hybrid: "Data & AI Consultant" + governance/enterprise-information credibility layer | Inconsistent messaging across channels |
 | Brand architecture | Personal name vs. invented brand | Personal name now, invented brand deferred to Year 2–3 | Wasted naming/domain effort now |
 | Core services | 30+ ideas vs. 5-pillar architecture | 5-pillar architecture (Section 10) | Website and content remain unfocused |
@@ -1062,13 +1077,13 @@ This gives a distinctive, ownable framework that can be referenced consistently 
 ## SECTION 37 — FINAL RECOMMENDED DIRECTION
 
 ### Executive Summary
-The strongest viable direction is a **focused, governance-first Data & AI consulting practice**, anchored in Oil & Gas/Energy/Engineering credibility, delivered through five clear service pillars, launched under your personal name, and built on a paid-assessment-first commercial model. The single biggest lever available right now is *focus* — collapsing 30+ service ideas and 13 audiences into one clear position that a buyer can understand in five seconds.
+The strongest viable direction is a **focused, governance-first Data & AI consulting practice**, targeting mid-size companies across all sectors and informed throughout by deep Oil & Gas/Engineering rigor, delivered through five clear service pillars, launched under your personal name, and built on a paid-assessment-first commercial model. The single biggest lever available right now is *focus* — collapsing 30+ service ideas and 13 audiences into one clear position that a buyer can understand in five seconds.
 
 ### Recommended Market Position
 "Data & AI Consultant" (public label) backed by enterprise information governance and Microsoft technology depth (credibility layer). See Section 6.
 
 ### Recommended Target Customer
-Oil & Gas / Energy / Engineering organisations (primary), Microsoft 365 customers cross-industry (secondary). Government and generic SME deferred.
+Mid-size companies (working assumption: ≈50–500 employees) across all sectors, with Microsoft 365/Power Platform environments as a strong fit signal. Energy/Engineering/Industrial companies remain the fastest opening wedge given your background. Government, micro/small businesses, and large multinational enterprises are deferred or deprioritised.
 
 ### Recommended Service Model
 Five pillars: Data & Information Governance, Business Intelligence & Analytics, Microsoft 365 & Automation, Enterprise AI & Knowledge Solutions, Technical Data Management (industry specialist). Packaged as Foundation (assessment) → Transformation (implementation) → Strategic Partnership (retainer).
@@ -1089,7 +1104,7 @@ LinkedIn authority content + direct network outreach as the near-term engine; on
 Positioning, 5-pillar service architecture, 3-tier packaging, essential website pages, 2–3 demonstration case studies, one lead magnet, LinkedIn presence.
 
 ### What Should Be Deferred
-Government market, generic SME market, invented company brand, full content/SEO engine, managed services/retainers (until first clients exist), any SaaS/digital product.
+Government market, micro/small business market, large multinational enterprise, invented company brand, full content/SEO engine, managed services/retainers (until first clients exist), any SaaS/digital product.
 
 ### Main Risks
 Employer conflict of interest (highest priority to resolve), lack of proof assets, solo-delivery capacity, unvalidated pricing.
@@ -1106,7 +1121,7 @@ Employer conflict of interest (highest priority to resolve), lack of proof asset
 # PHASE 1 STATUS
 
 ### Recommended Strategy (Summary — 10 Points)
-1. Focus on Oil & Gas/Energy/Engineering as the primary market; Microsoft 365 customers as secondary.
+1. Focus on mid-size companies across all sectors as the primary market, with Microsoft 365/Power Platform environments as a cross-cutting fit signal; Oil & Gas/Engineering credibility used as a rigor signal, not a market restriction.
 2. Adopt a hybrid position: "Data & AI Consultant" backed by governance/enterprise-information credibility.
 3. Collapse services into 5 clear pillars, not 30+ disconnected offerings.
 4. Package as Foundation (assessment) → Transformation (implementation) → Strategic Partnership (retainer).
@@ -1114,7 +1129,7 @@ Employer conflict of interest (highest priority to resolve), lack of proof asset
 6. Launch under your personal name; defer any invented company brand to Year 2–3.
 7. Build 2–3 demonstration/anonymised case studies before public launch — never fabricate client proof.
 8. Launch a focused, essential-pages-only website; treat full content/SEO as a 6–12 month build.
-9. Defer Government and generic SME markets to later years.
+9. Defer Government and large multinational enterprise; deprioritise micro/small businesses.
 10. Resolve employment conflict-of-interest and business registration questions before any public-facing activity.
 
 ### Decisions Requiring Approval
@@ -1127,6 +1142,7 @@ Employer conflict of interest (highest priority to resolve), lack of proof asset
 - Case study approach: demonstration/anonymised only until real proof is permitted (Section 18, 36)
 
 ### Information Still Required
+- Confirmed employee-count/revenue definition of "mid-size" for this market
 - Employment contract/non-compete/confidentiality terms
 - Business registration and tax status in Oman
 - Any formal certifications held
