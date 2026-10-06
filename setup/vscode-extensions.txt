@@ -1,0 +1,25 @@
+# VS Code extensions installed by the setup scripts (one ID per line).
+
+# Python
+ms-python.python
+ms-python.vscode-pylance
+ms-python.debugpy
+charliermarsh.ruff
+ms-toolsai.jupyter
+
+# Git / GitHub
+eamodio.gitlens
+github.vscode-pull-request-github
+github.copilot
+github.copilot-chat
+
+# General
+editorconfig.editorconfig
+esbenp.prettier-vscode
+redhat.vscode-yaml
+yzhang.markdown-all-in-one
+mechatroner.rainbow-csv
+ms-vscode.powershell
+
+# Claude
+anthropic.claude-code

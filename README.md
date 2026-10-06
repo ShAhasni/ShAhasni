@@ -33,3 +33,7 @@ Senior Technical Data Management Analyst based in Oman.
 ## Goals
 
 Building production-ready AI and data products that connect technical data, business knowledge, and intelligent automation.
+
+## Dev Environment
+
+New machine? See [`setup/README.md`](setup/README.md) for one-click setup of Python, Git, Git Bash, Node.js, Claude and VS Code.
